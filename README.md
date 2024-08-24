@@ -6,8 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- <a href="https://www.linkedin.com/in/hemansh-agnihotri/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hemansh-agnihotri/" height="30" width="100" /></a>
 
+- <a href="https://www.linkedin.com/in/hemansh-agnihotri/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hemansh-agnihotri/" height="30" width="100" /></a>
+- [![LeetCode user hem99](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhem99&logo=leetcode&logoColor=yellow)](https://leetcode.com/hem99/)
 - <a href="hemanshagnihotri27@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="https://www.linkedin.com/in/hemansh-agnihotri/" height="30" width="30" /> **hemanshagnihotri27@gmail.com**</a>
 </p>
 
